@@ -1,0 +1,75 @@
+Average Foreground IOU within 017.nii: 0.9463150097624764
+Average Foreground IOU within 023.nii: 0.9542342807150913
+Average Foreground IOU within 037.nii: 0.9399925517456132
+Average Foreground IOU within 040.nii: 0.9026163721078626
+Average Foreground IOU within 046.nii: 0.9550957741928775
+Average Foreground IOU within 047.nii: 0.9261832986303304
+Average Foreground IOU within 057.nii: 0.9013790013759955
+Average Foreground IOU within 069.nii: 0.910146500853358
+Average Foreground IOU within 076.nii: 0.947530794650603
+Average Foreground IOU within 088.nii: 0.9497167945793076
+Average Foreground IOU within 089.nii: 0.9420485426577585
+Average Foreground IOU within 097.nii: 0.9513232576487027
+Average Foreground IOU within 108.nii: 0.9584644868548868
+Overall Average Foreground IOU across all NII files: 0.9355740434597271
+
+Average Foreground IOU within 024.nii: 0.9220755479697023
+Average Foreground IOU within 032.nii: 0.9431217826215446
+Average Foreground IOU within 034.nii: 0.9314547663488358
+Average Foreground IOU within 039.nii: 0.9197149705047967
+Average Foreground IOU within 048.nii: 0.9190868279367485
+Average Foreground IOU within 049.nii: 0.9296348172805448
+Average Foreground IOU within 055.nii: 0.9271908024625187
+Average Foreground IOU within 061.nii: 0.9227724978596349
+Average Foreground IOU within 063.nii: 0.9054930654487287
+Average Foreground IOU within 064.nii: 0.8817802767912948
+Average Foreground IOU within 065.nii: 0.8738287198139378
+Average Foreground IOU within 091.nii: 0.8838232664514141
+Average Foreground IOU within 103.nii: 0.8596746300582918
+Overall Average Foreground IOU across all NII files: 0.9097711762692634
+
+Average Foreground IOU within 026.nii: 0.935380862591801
+Average Foreground IOU within 027.nii: 0.9488486849286604
+Average Foreground IOU within 036.nii: 0.9022523593773923
+Average Foreground IOU within 041.nii: 0.9322567827464341
+Average Foreground IOU within 050.nii: 0.9076984617927581
+Average Foreground IOU within 052.nii: 0.9344937242501113
+Average Foreground IOU within 056.nii: 0.948474271291733
+Average Foreground IOU within 087.nii: 0.8226668496329399
+Average Foreground IOU within 090.nii: 0.9144663527523197
+Average Foreground IOU within 094.nii: 0.8994371327012912
+Average Foreground IOU within 096.nii: 0.9002740758404805
+Average Foreground IOU within 102.nii: 0.8908425414022042
+Average Foreground IOU within 109.nii: 0.9295774903860232
+Overall Average Foreground IOU across all NII files: 0.9136319063123945
+
+Average Foreground IOU within 001.nii: 0.9518344356992624
+Average Foreground IOU within 021.nii: 0.9014492645922587
+Average Foreground IOU within 028.nii: 0.9202291548834228
+Average Foreground IOU within 035.nii: 0.9539778759106489
+Average Foreground IOU within 053.nii: 0.9478385807863363
+Average Foreground IOU within 074.nii: 0.9331852483011989
+Average Foreground IOU within 080.nii: 0.9497221887621321
+Average Foreground IOU within 093.nii: 0.9618699502331651
+Average Foreground IOU within 095.nii: 0.9662621569934771
+Average Foreground IOU within 099.nii: 0.9157442600223404
+Average Foreground IOU within 101.nii: 0.9557821458824433
+Average Foreground IOU within 105.nii: 0.9144142791039325
+Average Foreground IOU within 107.nii: 0.922525420023024
+Overall Average Foreground IOU across all NII files: 0.9389064232127248
+
+Average Foreground IOU within 006.nii: 0.8402695273864449
+Average Foreground IOU within 007.nii: 0.8277881795842575
+Average Foreground IOU within 009.nii: 0.8667650437739252
+Average Foreground IOU within 014.nii: 0.926334435638368
+Average Foreground IOU within 018.nii: 0.8651681763160503
+Average Foreground IOU within 029.nii: 0.9038444030390862
+Average Foreground IOU within 044.nii: 0.9292726019950681
+Average Foreground IOU within 067.nii: 0.9065706590391838
+Average Foreground IOU within 073.nii: 0.9067470473886445
+Average Foreground IOU within 084.nii: 0.9026899372909979
+Average Foreground IOU within 085.nii: 0.8994911053343728
+Average Foreground IOU within 086.nii: 0.9205029342140321
+Overall Average Foreground IOU across all NII files: 0.8889418237899146
+
+9173
