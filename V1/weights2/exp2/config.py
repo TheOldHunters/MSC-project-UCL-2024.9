@@ -8,7 +8,7 @@ class config:
 
     class Run_config:
         # test on fold 0
-        fold = 1
+        fold = 2
         device = 'cuda:0'
         weight_decay = 4e-3
         lr = 1e-4
